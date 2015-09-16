@@ -22,7 +22,7 @@ local g_PluginNames = {}
 local g_TicksPerStat = 5
 
 --- How many seconds of history to keep
-local g_HistorySeconds = 100
+local g_HistorySeconds = 500
 
 --- Memory statistics for individual plugins
 -- Map of "PluginName" => array of numbers
